@@ -1,12 +1,12 @@
 Config = {}
-
+-- JD_logs for Logging
 Config.JD_logs = false
 Config.JD_logsChannel = "priority"
 Config.JD_logsColor = "#F1F1F1"
 Config.Color = "~c~"
 
 -- Ace perm needed for staff commands
-Config.AcePerm = "jd.staff"
+Config.AcePerm = "le.staff"
 
 -- Default cooldown time
 Config.CooldownTime = 15

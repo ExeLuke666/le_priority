@@ -1,14 +1,11 @@
 <h4 align="center">
-	<a href="https://github.com/JokeDevil/JD_Priority/releases/latest" title=""><img alt="Release" src="https://img.shields.io/github/v/release/JokeDevil/JD_Priority"></a>
-	<a href="LICENSE" title=""><img alt="Licence" src="https://img.shields.io/github/license/JokeDevil/JD_Priority.svg"></a>
-	<a href="https://discord.gg/qyPdHzDKmb" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/540630552609554453/widget.png?style=shield"></a>
+	<a href="https://github.com/hi764/le_priority/releases" title=""><img alt="Release" src="https://img.shields.io/github/v/release/hi764/le_priority"></a>
+	<a href="LICENSE" title=""><img alt="Licence" src="https://img.shields.io/github/license/hi764/le_priority.svg"></a>
 </h4>
-
-https://discord.gg/prefech
 
 
 <h4 align="center">
- FiveM Advanced Priority Resource.
+ FiveM Priority Resource by Luke.
 </h4>
 
 <b>Commands:</b>
@@ -22,5 +19,3 @@ https://discord.gg/prefech
 <b>Note:</b><br>
 Staff is always able to start a cooldown.<br>
 Cooldown will start if the person who started a Priority Disconnects from the server.
-
-https://discord.gg/prefech
