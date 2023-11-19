@@ -1,21 +1,25 @@
+<p align="center">
+  <a href="https://github.com/hi764/le_priority/releases" title="Release"><img alt="Release" src="https://img.shields.io/github/v/release/hi764/le_priority"></a>
+  <a href="LICENSE" title="License"><img alt="License" src="https://img.shields.io/github/license/hi764/le_priority.svg"></a>
+</p>
+
 <h4 align="center">
-	<a href="https://github.com/hi764/le_priority/releases" title=""><img alt="Release" src="https://img.shields.io/github/v/release/hi764/le_priority"></a>
-	<a href="LICENSE" title=""><img alt="Licence" src="https://img.shields.io/github/license/hi764/le_priority.svg"></a>
+  FiveM Priority Resource by Luke.
 </h4>
 
+## Commands
 
-<h4 align="center">
- FiveM Priority Resource by Luke.
-</h4>
+- `/inprogress` - Starts priority (available to everyone).
+- `/cooldown` - Initiates cooldown; the person starting the priority can trigger this (default cooldown is 15 minutes).
 
-<b>Commands:</b>
-- /inprogress -- Starts priority (everyone can use this).
-- /cooldown -- Person that started the Priority can start cooldown (Default is 15 min).
+## Staff Commands
 
-<b>Staff Commands (You need the ace perm you can set in the config):</b>
-- /resetpcd -- will reset the cooldown and make the priority to 'Inactive'.
-- /cooldown [mins] -- Staff can start cooldowns with a custom timer.
+(Requires the appropriate ace permission, configurable in the resource's configuration file)
 
-<b>Note:</b><br>
-Staff is always able to start a cooldown.<br>
-Cooldown will start if the person who started a Priority Disconnects from the server.
+- `/resetpcd` - Resets the cooldown and sets the priority to 'Inactive'.
+- `/cooldown [mins]` - Staff can start cooldowns with a custom timer.
+
+**Note:**
+
+- Staff members can always initiate a cooldown.
+- Cooldown will commence if the person who started a priority disconnects from the server.
