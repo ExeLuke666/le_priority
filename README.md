@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/hi764/le_priority/releases/tag/1.0.3" title="Release"><img alt="Release" src="https://img.shields.io/github/v/release/hi764/le_priority"></a>
   <a href="LICENSE" title="License"><img alt="License" src="https://img.shields.io/github/license/hi764/le_priority.svg"></a>
+  <a href="https://discord.gg/2sC5BcBxGW" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/540630552609554453/widget.png?style=shield"></a>
 </p>
 
 <h4 align="center">
