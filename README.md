@@ -23,7 +23,9 @@
 **These permissions go in the bottom of your server.cfg | WARNING: If you do not know what you're doing, search it up!**
 
 `add_ace group.admin le_priority.command.resetpcd allow`
+
 `add_ace group.admin le_priority.command.inprogress allow`
+
 `add_ace group.admin le_priority.command.cooldown allow`
 
 **Note:**
